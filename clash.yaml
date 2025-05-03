@@ -207,7 +207,6 @@ proxies:
   network: ws
   server: 104.26.15.85
   port: 80
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
   skip-cert-verify: false
   tls: false
   client-fingerprint: chrome
